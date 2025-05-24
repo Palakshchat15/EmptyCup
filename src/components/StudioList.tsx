@@ -26,7 +26,8 @@ const StudioList: React.FC<StudioListProps> = ({
   const [studios, setStudios] = useState<Studio[]>([]);
 
   useEffect(() => {
-    fetch("http://localhost:5000/api/listings")
+   fetch(`${import.meta.env.VITE_BACKEND_URL}/api/listings`)
+
 
 
       .then((res) => res.json())

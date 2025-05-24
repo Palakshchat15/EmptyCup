@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Epic Designs",
+    "rating": 4.5,
+    "description": "Team of 4 designers from Bangalore with 4 years of experience.",
+    "projects": 57,
+    "years": 8,
+    "priceLevel": 2,
+    "phones": ["+91 - 984532853", "+91 - 9845328854"]
+  },
+  {
+    "id": 2,
+    "name": "Studio - D3",
+    "rating": 4.5,
+    "description": "Studio based in Bangalore with expertise in luxury interiors.",
+    "projects": 43,
+    "years": 6,
+    "priceLevel": 3,
+    "phones": ["+91 - 9845328853", "+91 - 9845328854"]
+  }
+]

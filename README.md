@@ -96,9 +96,9 @@ Backend - python app.py
 
 -> GitHub repo was already pushed while deploying backend
 
--> Go to https://vercel.com
+-> Go to https://render.com
 
--> Click "New Project"
+-> Click "Static Site"
 
 -> Select your repo
 
